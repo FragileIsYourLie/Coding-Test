@@ -4,7 +4,7 @@ using ll = long long;
 const int N = 1e5 + 9;
 const ll p = 1e9 + 7;
 
-//������¼�ĵݹ�
+//´ø±¸ÍüÂ¼µÄµÝ¹é
 ll dp[N];
 
 ll fib(int n) 
