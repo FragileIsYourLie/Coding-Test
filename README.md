@@ -1,4 +1,4 @@
-# LeetCode 必刷题单（C++ / 初学者路线）
+# LeetCode 题单
 
 权威的代码随想录：https://programmercarl.com/
 
