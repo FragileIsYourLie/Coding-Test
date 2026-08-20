@@ -48,9 +48,9 @@
 建议先画节点和箭头，再写指针修改语句。
 
 - [ ] [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) 🟢
-- [ ] [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) 🟢
-- [ ] [876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) 🟢
-- [ ] [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) 🟢
+- [x] [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) 🟢
+- [x] [876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) 🟢
+- [x] [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) 🟢
 - [ ] [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/) 🟢
 - [ ] [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) 🟢
 - [ ] [234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list/) 🟢
