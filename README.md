@@ -1,8 +1,9 @@
-## Python
+## 数据结构基础：
 
-1、搜索：leetcode 78,39,200,127,70,322,994
+1) 链表: leetcode easy 206,876,21,141,203,237,160
+         leetcode mid 19,142,2
 
-2、贪心：
 
+## 递归搜索：
 
-## C++
+1) dfs: leetcode easy 
